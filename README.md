@@ -3,6 +3,9 @@
 ###  其他收藏夹
 
 ####  大海投计划
+- [x] applied
+- [n] no SDE related job
+- [c] too complicated application
 
 #####  😀😀😀有进度😀😀😀
 
@@ -34,15 +37,15 @@
 
 #####  🙃🙃🙃简历筛🙃🙃🙃
 
-- [ ] 2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
+- [n] 2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
 
-- [ ] 2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
+- [x] 2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
 
-- [ ] 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
+- [f] 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
-- [ ] 2023-04-16 09:55 [网易雷火](https://campus.163.com/app/personal/apply?tab=leihuo)
+- [x] 2023-04-16 09:55 [网易雷火](https://campus.163.com/app/personal/apply?tab=leihuo)
 
-- [ ] 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
+- [f] 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
 
 - [ ] 2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
 
@@ -184,57 +187,57 @@
 
 - [ ] 2023-05-08 14:42 [建发股份](https://campus.chinacnd.com/chinacnd/personal.html?grzx=1)
 
-- [ ] 2023-05-08 14:44 [中国中化](https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/account.html#/)
+- [n] 2023-05-08 14:44 [中国中化](https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/account.html#/)
 
-- [ ] 2023-04-04 09:00 [招联金融](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/account.html#/myDeliver)
+- [x] 2023-04-04 09:00 [招联金融](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-04 14:39 [民生证券](https://mszq.hotjob.cn/wt/mszq/web/index?brandCode=1#~)
+- [n] 2023-04-04 14:39 [民生证券](https://mszq.hotjob.cn/wt/mszq/web/index?brandCode=1#~)
 
-- [ ] 2023-04-04 20:12 [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/candidateHome/applications)
+- [x] 2023-04-04 20:12 [微众银行](https://campus.webank.com/campus-recruitment/webankhr/18005/#/candidateHome/applications)
 
-- [ ] 2023-04-04 21:32 [招商银行](https://career.cmbchina.com/#applyHistorySchool)
+- [x] 2023-04-04 21:32 [招商银行](https://career.cmbchina.com/#applyHistorySchool)
 
-- [ ] 2023-04-04 21:47 [泰康集团](http://jobtaikang.zhiye.com/Portal/Account/Login?returnUrl=http%3a%2f%2fjobtaikang.zhiye.com%2fPortal%2fApply%2fIndex#~)
+- [x] 2023-04-04 21:47 [泰康集团](http://jobtaikang.zhiye.com/Portal/Account/Login?returnUrl=http%3a%2f%2fjobtaikang.zhiye.com%2fPortal%2fApply%2fIndex#~)
 
-- [ ] 2023-04-11 10:10 [平安银行](https://campus.pingan.com/personalcenter/center)
+- [c] 2023-04-11 10:10 [平安银行](https://campus.pingan.com/personalcenter/center)
 
-- [ ] 2023-04-11 14:23 [广发证券](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/account.html#/myDeliver)
+- [n] 2023-04-11 14:23 [广发证券](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-14 09:02 [工银瑞信](https://wecruit.hotjob.cn/SU60419b4dbef57c66a923b081/pb/account.html#/myDeliver)
+- [n] 2023-04-14 09:02 [工银瑞信](https://wecruit.hotjob.cn/SU60419b4dbef57c66a923b081/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-11 14:48 [海通证券](https://htzghr.zhiye.com/personal/deliveryRecord)
+- [n] 2023-04-11 14:48 [海通证券](https://htzghr.zhiye.com/personal/deliveryRecord)
 
-- [ ] 2023-04-17 13:47 [华泰证券](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/account.html#/myDeliver)
+- [n] 2023-04-17 13:47 [华泰证券](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-17 13:55 [卓识基金](https://app.mokahr.com/campus_apply/zsquant/36544#/candidateHome/applications)
+- [x] 2023-04-17 13:55 [卓识基金](https://app.mokahr.com/campus_apply/zsquant/36544#/candidateHome/applications)
 
-- [ ] 2023-04-17 14:12 [东方财富](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/candidateHome/applications)
+- [c] 2023-04-17 14:12 [东方财富](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/candidateHome/applications)
 
-- [ ] 2023-04-17 14:22 [华安基金](http://huaan.zhiye.com/Portal/Apply/Index)
+- [n] 2023-04-17 14:22 [华安基金](http://huaan.zhiye.com/Portal/Apply/Index)
 
-- [ ] 2023-04-17 14:26 [嘉实基金](https://app.mokahr.com/campus-recruitment/jsfund/43906#/candidateHome/applications)
+- [n] 2023-04-17 14:26 [嘉实基金](https://app.mokahr.com/campus-recruitment/jsfund/43906#/candidateHome/applications)
 
-- [ ] 2023-04-17 14:27 [华夏基金](http://chinaamc.zhiye.com/Portal/Apply/Index)
+- [n] 2023-04-17 14:27 [华夏基金](http://chinaamc.zhiye.com/Portal/Apply/Index)
 
-- [ ] 2023-04-17 14:29 [广发证券](https://wecruit.hotjob.cn/SU632447282f9d243713200f65/pb/account.html#/myDeliver)
+- [n] 2023-04-17 14:29 [广发证券](https://wecruit.hotjob.cn/SU632447282f9d243713200f65/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-17 14:41 [天风证券](https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/account.html#/myDeliver)
+- [n] 2023-04-17 14:41 [天风证券](https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-20 08:52 [南方基金](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/account.html#/myDeliver)
+- [n] 2023-04-20 08:52 [南方基金](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-22 09:39 [中信证券](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/account.html#/myDeliver)
+- [x] 2023-04-22 09:39 [中信证券](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-22 09:51 [兴业银行](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/account.html#/myDeliver)
+- [e] 2023-04-22 09:51 [兴业银行](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/account.html#/myDeliver)
 
-- [ ] 2023-04-22 10:08 [文华财经](http://hr.wenhua.com.cn/Job/Index)
+- [n] 2023-04-22 10:08 [文华财经](http://hr.wenhua.com.cn/Job/Index)
 
-- [ ] 2023-04-22 10:20 [金证股份](https://szkingdom.zhiye.com/personal/deliveryRecord)
+- [x] 2023-04-22 10:20 [金证股份](https://szkingdom.zhiye.com/personal/deliveryRecord)
 
-- [ ] 2023-04-23 13:56 [鹏华基金](https://job.phfund.com.cn/#/selfpost)
+- [n] 2023-04-23 13:56 [鹏华基金](https://job.phfund.com.cn/#/selfpost)
 
-- [ ] 2023-04-26 09:02 [申万宏源证券](https://app.mokahr.com/campus-recruitment/swhysc-job/100159#/candidateHome/applications)
+- [n] 2023-04-26 09:02 [申万宏源证券](https://app.mokahr.com/campus-recruitment/swhysc-job/100159#/candidateHome/applications)
 
-- [ ] 2023-04-27 09:09 [德邦证券](https://app.mokahr.com/campus_apply/imtebon/47449#/candidateHome/applications)
+- [n] 2023-04-27 09:09 [德邦证券](https://app.mokahr.com/campus_apply/imtebon/47449#/candidateHome/applications)
 
 - [ ] 2023-04-27 09:22 [(无查询)上海银行](https://bosc.zhiye.com/personal/deliveryRecord)
 
